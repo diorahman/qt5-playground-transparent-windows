@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=PlaygroundTransparent
+Exec=/usr/bin/single-instance /opt/PlaygroundTransparent/bin/PlaygroundTransparent
+Icon=/usr/share/icons/hicolor/80x80/apps/PlaygroundTransparent80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
